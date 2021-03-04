@@ -1,0 +1,11 @@
+{
+    "name": "ptxiaotu/composer_test",
+    "description": "no description",
+    "authors": [
+        {
+            "name": "pengtao",
+            "email": "625011991@qq.com"
+        }
+    ],
+    "require": {}
+}
